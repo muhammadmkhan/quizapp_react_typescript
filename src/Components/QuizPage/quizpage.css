@@ -1,0 +1,12 @@
+.heading1{
+    text-align: center;
+}
+.quizpage-main-container{
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.quesOption{
+    flex-wrap: wrap;
+}
